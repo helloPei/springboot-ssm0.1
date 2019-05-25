@@ -1,1 +1,2 @@
-SpringBoot整合Spring+SpringMVC+Mybatis+MySQL
+SpringBoot
+Spring + SpringMVC + Mybatis + MySQL + JSP
